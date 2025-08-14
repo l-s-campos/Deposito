@@ -28,3 +28,6 @@ Ao término da disciplina o aluno deverá ser capaz de:
 70% → provas
 
 30% → apresentações ao longo do semestre
+
+
+[Ementa](https://1drv.ms/b/s!AmfyGvdmTYonhKZZbfBC-gAtSkYrHA?e=Afadka)
