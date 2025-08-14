@@ -2,7 +2,7 @@
 
 [Slides das aula](https://1drv.ms/f/s!AmfyGvdmTYonhKdYJ0zft7kIVxe7-g?e=9ZNLkq)
 
-![[VIGAS_3D.pdf]]
+[[VIGAS_3D.pdf|Tutorial vigas 3d]]
 
 [[página/source/content/Estática/Provas|Provas]]
 
