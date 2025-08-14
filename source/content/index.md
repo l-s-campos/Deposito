@@ -1,4 +1,7 @@
 ---
-title: My GitHub Pages Notebook!
+title: Depósito de Lucas Campos
 ---
-QUAL a boa?
+# Disciplinas
+[[Elementos de máquinas 1 25-1]]
+[[Estática]]
+[[BEM]]
