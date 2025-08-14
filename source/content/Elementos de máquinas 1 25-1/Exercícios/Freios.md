@@ -37,14 +37,14 @@
       
     (c) Qual o torque máximo desse preio? A direção de rotação do tambor afeta o torque de frenagem? Faça as hipóteses necessárias.
 
-![[Untitled 67.png|Untitled 67.png]]
+![Untitled 67.png](attachments/Untitled%2067.png)
 
 1. Uma embreagem é necessária para um motor elétrico que transmite 20 kW a 1100 rpm. A embreagem será acoplada diretamente à placa frontal da carcaça do motor e deve ter o mesmo diâmetro da carcaça do motor, que é 125 mm. A folga radial mínima entre o diâmetro externo da caixa e o diâmetro externo do disco de embreagem é de 5 mm. O eixo de saída da embreagem terá o mesmo diâmetro do eixo do motor, que é de 15 mm. Projete uma embreagem de disco múltiplo para esta aplicação. Declare todas as suposições e escolhas de design. Especifique o material da embreagem, o raio externo do disco, o raio interno do disco e a força de atuação necessária.
 2. Um carro de corrida solar ultraleve pesa 250kg com motorista. Ele tem duas rodas de bicicleta de 50cm na frente que devem ter freios a disco com pinças duplas em cada roda. Os freios devem ser capazes de parar o carro a uma distância de 50m de uma velocidade de 20m/s. Desprezando as forças aerodinâmicas e de resistência ao rolamento, projete freios a disco com pinças duplas para o carro.
 
 1. O tambor para as lonas de freio tem diâmetro de 300 mm. A lona escolhida tem um coeficiente de atrito médio de 0,28 e uma largura de 80 mm. A correia suporta uma força máxima de 7,6kN. Se o ângulo envolvente é de 270 graus, encontre a pressão no revestimento e a capacidade de torque correspondente.
 
-![[Untitled 1 52.png|Untitled 1 52.png]]
+![Untitled 1 52.png](attachments/Untitled%201%2052.png)
 
 1. Uma embreagem multidisco consiste em placas de aço e bronze. Transmite 15 kW de potência a 1400 rpm. Os diâmetros interno e externo das superfícies de contato são de 100 e 200 mm, respectivamente. O coeficiente de atrito é de 0,15 e a intensidade admissível de  
     a pressão é de 0,05 N/mm2. Calcule o número de discos de aço e bronze.
@@ -53,4 +53,4 @@
     a) Determine o torque de frenagem e a potência de atrito gerada.  
     b) Mostre a localização da pressão máxima e determine seu valor para a largura da sapata de 100mm.
 
-![[Untitled 2 43.png|Untitled 2 43.png]]
+![Untitled 2 43.png](attachments/Untitled%202%2043.png)

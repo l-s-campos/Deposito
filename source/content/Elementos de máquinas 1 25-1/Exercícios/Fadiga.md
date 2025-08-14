@@ -5,9 +5,9 @@
 1. Considere duas possíveis peças usadas para assentar um anel de retenção. Para suportar as cargas aplicadas, um anel de retenção não padronizado é usado para que a profundidade e a largura sejam maiores que o normal. O aço AISI 1020 (temperado e revenido a 870◦C) é usado e usinado em suas dimensões finais.  
     Use uma confiabilidade de 99%, um fator de segurança de 5 e considerando condições usuais de trabalho encontre o valor admissível máximo do momento fletor alternante para os dois casos.
 
-![[Untitled 60.png|Untitled 60.png]]
+![Untitled 60.png](attachments/Untitled%2060.png)
 
-![[Untitled 1 45.png|Untitled 1 45.png]]
+![Untitled 1 45.png](attachments/Untitled%201%2045.png)
 
   
 
@@ -15,7 +15,7 @@
     O fator de segurança estático mínimo baseado no escoamento.  
     A vida útil da peça em número de rotações.
 
-![[Untitled 2 38.png|Untitled 2 38.png]]
+![Untitled 2 38.png](attachments/Untitled%202%2038.png)
 
 1. Durante o desenvolvimento de um carro novo, descobriu-se que a potência do motor era muito alta para a caixa de câmbio. Quando o torque máximo foi transmitido através da caixa de engrenagens, 50% das caixas de engrenagens falharam dentro da vida útil exigida de 800 horas. Quão mais forte deve ser a caixa de engrenagens para garantir que apenas uma caixa de engrenagens em 1.000 falhe em 800 horas?
 
@@ -23,13 +23,13 @@
     (a) Qual era o fator de segurança original?  
     (b) Qual era o fator de segurança se um furo de 5mm for usado?
 
-![[Untitled 3 29.png|Untitled 3 29.png]]
+![Untitled 3 29.png](attachments/Untitled%203%2029.png)
 
   
 
 1. Considere um componente que tem limite de endurança $S_e=30ksi$, limite de resistência a tração $S_{ut}=120ksi$ e está submetido repetidamente às tensões. Calcule a vida desse componente.
 
-![[Untitled 4 27.png|Untitled 4 27.png]]
+![Untitled 4 27.png](attachments/Untitled%204%2027.png)
 
 1. Corpos de prova de uma liga de Al 2024 foram carregados axialmente com tensão media igual a zero e os resultados são apresentados na Tabela.
     
@@ -38,24 +38,24 @@
     Determine os parâmetros A e B da curva S-N para este material.
     
 
-![[Untitled 5 22.png|Untitled 5 22.png]]
+![Untitled 5 22.png](attachments/Untitled%205%2022.png)
 
 1. Caso o histórico de carregamentos apresentado for aplicado a uma peça de alumínio 2024-t4, quantas repetições do histórico de carregamentos serão necessárias para causar falha do componente?
 
-![[Untitled 6 18.png|Untitled 6 18.png]]
+![Untitled 6 18.png](attachments/Untitled%206%2018.png)
 
 Caso o projeto necessite de no mínimo 500 repetições, quais seriam os fatores de segurança em tensão e em vida?
 
-![[Untitled 7 14.png|Untitled 7 14.png]]
+![Untitled 7 14.png](attachments/Untitled%207%2014.png)
 
   
 
 1.   
     
 
-![[Untitled 8 12.png|Untitled 8 12.png]]
+![Untitled 8 12.png](attachments/Untitled%208%2012.png)
 
-![[Untitled 9 10.png|Untitled 9 10.png]]
+![Untitled 9 10.png](attachments/Untitled%209%2010.png)
 
   
 

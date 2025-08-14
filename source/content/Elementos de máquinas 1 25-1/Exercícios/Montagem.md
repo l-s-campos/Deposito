@@ -1,6 +1,6 @@
 1. Especifique uma chaveta para uma engrenagem a ser montada em um eixo com 2,00 in de diâmetro. A engrenagem transmite 21.000 lb in. de torque e tem um comprimento de cubo de 4,00 in.
 
-![[Untitled 63.png|Untitled 63.png]]
+![Untitled 63.png](attachments/Untitled%2063.png)
 
 1. Considerando que o eixo é de aço 1045 e a engrenagem é de alumínio 6061, que o diâmetro externo da engrenagem é 3 vezes o diâmetro do eixo e que a máquina trabalha na temperatura padrão, substitua o projeto da chaveta pelo ajuste prensado. (valores da 1)
 
@@ -11,7 +11,7 @@
     Cubo em alumínio fundido (2011 T6)  
     Dimensionar Cubo e número de parafusos
 
-![[Untitled 1 48.png|Untitled 1 48.png]]
+![Untitled 1 48.png](attachments/Untitled%201%2048.png)
 
 1. Troque o sistema da questão 3 para chaveta meia lua
 2. Troque o sistema da questão 3 para interferência

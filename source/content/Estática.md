@@ -1,18 +1,18 @@
-[[página/source/content/Estática/EMENTA|EMENTA]]
+[EMENTA](Estática/EMENTA.md)
 
 [Slides das aula](https://1drv.ms/f/s!AmfyGvdmTYonhKdYJ0zft7kIVxe7-g?e=9ZNLkq)
 
-[[VIGAS_3D.pdf|Tutorial vigas 3d]]
+[Tutorial vigas 3d](attachments/VIGAS_3D.pdf)
 
-[[página/source/content/Estática/Provas|Provas]]
+[Provas](Estática/Provas.md)
 
-[[página/source/content/Estática/Notas/Notas|Notas]]
+[Notas](Estática/Notas.md)
 
-[[página/source/content/Estática/Apresentações|Apresentações]]
+[Apresentações](Estática/Apresentações.md)
 
-[[página/source/content/Estática/Exercícios/Exercícios|Exercícios]]
+[Exercícios](Estática/Exercícios.md)
 
-[[página/source/content/Estática/extra/extra|extra]]
+[extra](Estática/extra.md)
 
   
 

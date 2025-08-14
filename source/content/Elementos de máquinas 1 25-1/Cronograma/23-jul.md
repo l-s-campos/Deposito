@@ -11,8 +11,8 @@ Exemplos em sala:
 
   
 
-![[image 75.png|image 75.png]]
+![image 75.png](attachments/image%2075.png)
 
-![[image 1 14.png|image 1 14.png]]
+![image 1 14.png](attachments/image%201%2014.png)
 
-![[image 2 13.png|image 2 13.png]]
+![image 2 13.png](attachments/image%202%2013.png)

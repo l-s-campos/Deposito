@@ -5,7 +5,7 @@ tags:
 Videos: https://youtu.be/7QD2qrKbjP8
 capítulo: 8.1-8.3 - Parafusos
 ---
-![[Multiple-Start-Thread.png]]
+![Multiple-Start-Thread.png](attachments/Multiple-Start-Thread.png)
 
   
 

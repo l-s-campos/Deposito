@@ -13,7 +13,7 @@
     (b) Qual deve ser a potência do motor?  
     (c) A máquina pode ser usada para testes de compressão?
 
-![[Untitled 64.png|Untitled 64.png]]
+![Untitled 64.png](attachments/Untitled%2064.png)
 
 1. O parafuso é operado por um torque aplicado na extremidade inferior. A porca é carregada e impedida de girar por guias. Suponha que o atrito no rolamento de esferas seja desprezível. O parafuso tem um diâmetro externo de 48 mm e uma rosca trapezoidal tripla ISO. O passo é de 8 mm. O coeficiente de atrito da rosca é 0,15.  
     (a) Determine a carga que pode ser elevada por um torque T de 40 Nm.  
@@ -21,9 +21,9 @@
     (c) Qual tensão está atuando nesse parafuso? Escolha um aço adequado para ele.
 2. Encontre a eficiência de um parafuso diferencial e verifique se ele é auto-travante. Ambos os parafusos têm rosca quadrada de início simples. O maior parafuso tem diâmetro nominal de 6 mm e passo de 1,38mm, enquanto o parafuso menor tem diâmetro de 4 mm e passo de 0,89 mm. Assuma o coeficiente de atrito nas roscas como 0,1.
 
-![[Untitled 1 49.png|Untitled 1 49.png]]
+![Untitled 1 49.png](attachments/Untitled%201%2049.png)
 
-![[Untitled 2 40.png|Untitled 2 40.png]]
+![Untitled 2 40.png](attachments/Untitled%202%2040.png)
 
   
 
@@ -33,7 +33,7 @@
     (c) Qual força de aperto causará flambagem no parafuso?  
     (d) Existem possíveis falhas? como elas poderiam ser analisadas?
 
-![[Untitled 3 31.png|Untitled 3 31.png]]
+![Untitled 3 31.png](attachments/Untitled%203%2031.png)
 
 1. Um parafuso de força de rosca dupla é usado para levantar uma carga de 5 kN. O diâmetro nominal é 60 mm e o passo é 9 mm. As roscas são do tipo Acme (θ = 29°) e o coeficiente de atrito nas roscas dos parafusos é 0,15.  
     Desprezando o atrito do colar, calcule:  

@@ -6,11 +6,11 @@ Todas as superfícies são usinadas exceto os munhões, que são retificados e p
 
   
 
-![[Untitled 61.png|Untitled 61.png]]
+![Untitled 61.png](attachments/Untitled%2061.png)
 
-![[Untitled 1 46.png|Untitled 1 46.png]]
+![Untitled 1 46.png](attachments/Untitled%201%2046.png)
 
-![[Untitled 2 39.png|Untitled 2 39.png]]
+![Untitled 2 39.png](attachments/Untitled%202%2039.png)
 
   
 
@@ -18,15 +18,15 @@ Todas as superfícies são usinadas exceto os munhões, que são retificados e p
 
 1. A potência de entrada no eixo AB é de 2hp e ele está girando a 1500RPM? Qual o fator de segurança do eixo CD? faça as hipóteses necessárias.
 
-![[Untitled 3 30.png|Untitled 3 30.png]]
+![Untitled 3 30.png](attachments/Untitled%203%2030.png)
 
 1. A figura mostra um conjunto de redução dupla envolvendo engrenagens helicoidais. O pinhão 2 é motor, recebendo um torque de 1 200 lbf*in do seu eixo na direção mostrada. O pinhão 2 possui um passo diametral normal de 8 dentes/in, 14 dentes, um ângulo de pressão normal de 20°, possuindo hélice de mão direita cortada com ângulo de 30º. A engrenagem par, 3, é montada no eixo b, possuindo 36 dentes. A engrenagem 4, que é motora para o segundo par de engrenagens no trem, possui um passo diametral normal de 5 dentes/in, 15 dentes e um ângulo de pressão normal de 20°, sendo cortada com hélice de mão esquerda de ângulo igual a 15°. A engrenagem par, 5, possui 45 dentes. Encontre a magnitude e direção da força exercida pelos mancais C e D sobre o eixo b, se o mancal C pode suportar apenas cargas radiais, enquanto o mancal D é montado para suportar tanto cargas axiais quanto radiais.
 
 Projete o eixo b desse redutor.
 
-![[Untitled 4 28.png|Untitled 4 28.png]]
+![Untitled 4 28.png](attachments/Untitled%204%2028.png)
 
-![[Untitled 5 23.png|Untitled 5 23.png]]
+![Untitled 5 23.png](attachments/Untitled%205%2023.png)
 
 1. O rolo se estende por 80% do comprimento a e está centrado nessa dimensão. O rolo ocupa 95% do comprimento exposto do eixo entre as faces do rolamento. O eixo é de aço com Sy = 427 MPa e Sut = 745 MPa. Considerando a=16cm b=18 cm l=20cm, que o diâmetro da engrenagem é 12cm P=1000N Tmax=2000Nm e Tmin=1000Nm, encontre:  
     (a) O fator de segurança contra falha por fadiga para um diâmetro de eixo de 40 mm.  
@@ -34,7 +34,7 @@ Projete o eixo b desse redutor.
 2. A seção do eixo mostrada na figura deve ser projetada para aproximar tamanhos relativos de d = 0,75D e r = D/ 20 com diâmetro d em conformidade com os tamanhos de furo de rolamento padrão. O eixo deve ser feito de aço SAE 2340, tratado termicamente para obter resistências mínimas de 175 kpsi de resistência à tração e 160 kpsi de resistência ao escoamento com uma dureza Brinell não inferior a 370. O eixo é submetido a um momento de flexão completamente reverso de 600 lbf • pol, acompanhado por uma torção constante de 400 lbf • pol. Use um fator de projeto de 2,5 e dimensione o eixo para uma vida infinita.  
     
 
-![[Untitled 6 19.png|Untitled 6 19.png]]
+![Untitled 6 19.png](attachments/Untitled%206%2019.png)
 
   
 
@@ -44,7 +44,7 @@ Projete o eixo b desse redutor.
 
   
 
-![[image 77.png|image 77.png]]
+![image 77.png](attachments/image%2077.png)
 
   
 
@@ -53,7 +53,7 @@ Projete o eixo b desse redutor.
 
 em sala
 
-![[Untitled 7 15.png|Untitled 7 15.png]]
+![Untitled 7 15.png](attachments/Untitled%207%2015.png)
 
 1. Considerando que as engrenagens usam chavetas e que o material do eixo é de um aço 1045 qual o diâmetro adequado? os diâmetros das engrenagens são de 500 e 250 mm.
 

@@ -26,6 +26,6 @@ III - Acoplamentos de Engate
 • engate / desengate de eixos  
 • não compensam desalinhamentos.
 
-[[página/source/content/Elementos de máquinas 1 25-1/Cronograma/11-jun/em sala|em sala]]
+[em sala](em%20sala.md)
 
 [https://www.youtube.com/watch?v=A2UbzFyPA6k](https://www.youtube.com/watch?v=A2UbzFyPA6k)

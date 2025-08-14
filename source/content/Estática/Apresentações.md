@@ -4,81 +4,81 @@
 
 |Nome do Aluno|data|exs|tema|
 |---|---|---|---|
-|GUILHERME COMETTI FERREIRA|29/abr|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|VICTOR GABRIEL DE ARAUJO SILVA|29/abr|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|GUILHERME TOZI BRAGA|29/abr|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|PATRIK MARQUES RADINZ|29/abr|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|LUCIO CAMPOS GUEDES PADILHA|29/abr|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|PEDRO BADAUY COPPO|29/abr|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|RAQUEL BARCELOS DE AQUINO FERNANDES|06/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|LAVINIA RICARDINO VACCARI|06/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|PATRICK ALMEIDA DE OLIVEIRA|06/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|ANA FLÁVIA MORAIS SANTOS|06/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|LUIZ FILIPE SANTOS DAS NEVES MATTOS|06/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|MARIA EDUARDA FERNANDES PIASSI|06/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|BRUNO PEREIRA SANTIAGO DE ARAUJO|08/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|LUIZ EDUARDO DALAPICULA|08/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|JOAO VICTOR CORREA VIEIRA|08/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|GABRIEL FAUSTINO MARTINS|08/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de partícula|
-|FRANCISCO S DO C PEREIRA|08/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|PEDRO HENRIQUE PRETTI VALENTIM|08/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|MATHEUS ZAMBALDI MARIM|13/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|JOAO VITOR AHNERT BLANCO DE MOURA MAGALHAES|13/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|JOAO MARCOS PECANHA SILVA|13/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|MATEUS VICENTE DE FREITAS|13/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|PEDRO HENRIQUE GONCALVES CONFORTI|13/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|OTAVIO SCOTA GUSMAO|13/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|ANA CAROLINA ZAMPROGNO ZOTTELE|15/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|CAUÃ SILVA BLANCO|15/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|CAIO HENRIQUE MOREIRA DA SILVA|15/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|FELIPE WANDEKOKEM BIGOSSI|15/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|RENZO SEPTIMIO ALVES FADINI|15/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|ENRICO BORTOLOTE RICCIO|15/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|MELL HUEBRA SOUZA SCHETTINO|20/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|JULIA MONJARDIM LUBE|20/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|RYAN PEREIRA WILLI|20/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|VINNICIUS DE ANDRADE COLOMBO|20/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|CAIO CAMPOS DE CASTRO|20/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|JOAO PEDRO SOARES ROCHA|20/mai|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Equilíbrio de corpo rígido|
-|RAFAEL  <br>GIROTO OLIVEIRA FERRAZ|3-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|BRENNO LUIZ DE SOUZA MIRANDA|3-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|DERIK FRIGINI KUSTER|3-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|HENRIQUE NASCIMENTO BARTELT|3-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|GUILHERME SALOMAO DA SILVA ALVES|5-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|EDUARDO SCHMIDT SCHULTZ|5-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|RAFAEL THYAGO SILVA E SERRA|5-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|FAGNER HENRIQUE COSTA JUNIOR|5-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|GABRIELLA DE ALMEIDA BUNGENSTAB|5-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|PAULO ALEXANDRE GALVAO DE AGUIAR|5-Jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Carregamentos axiais|
-|WILLIAN MANTOVANI BANDEIRA|10-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|MATHEUS COPPO SCARAMUSSA|10-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|VITOR LOURENCO DE SOUZA|10-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|ENZO VIEIRA PINTO|10-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|FELLIPE DA SILVA MORAES|12-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|RAFAEL  <br>GIROTO OLIVEIRA FERRAZ|12-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|PATRICK  <br>ALMEIDA DE OLIVEIRA|12-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|LAVINIA RICARDINO VACCARI|12-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|JULIA MONJARDIM LUBE|12-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|RENZO  <br>SEPTIMIO ALVES FADINI|12-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|GABRIELLA DE ALMEIDA BUNGENSTAB|17-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|RAFAEL THYAGO  <br>SILVA E SERRA|17-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|WILLIAN  <br>MANTOVANI BANDEIRA|17-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|BRUNO PEREIRA SANTIAGO DE ARAUJO|17-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|LUIZ EDUARDO DALAPICULA|17-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
-|GUILHERME SALOMAO DA SILVA ALVES|17-jun|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Momento de Inércia|
+|GUILHERME COMETTI FERREIRA|29/abr|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|VICTOR GABRIEL DE ARAUJO SILVA|29/abr|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|GUILHERME TOZI BRAGA|29/abr|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|PATRIK MARQUES RADINZ|29/abr|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|LUCIO CAMPOS GUEDES PADILHA|29/abr|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|PEDRO BADAUY COPPO|29/abr|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|RAQUEL BARCELOS DE AQUINO FERNANDES|06/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|LAVINIA RICARDINO VACCARI|06/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|PATRICK ALMEIDA DE OLIVEIRA|06/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|ANA FLÁVIA MORAIS SANTOS|06/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|LUIZ FILIPE SANTOS DAS NEVES MATTOS|06/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|MARIA EDUARDA FERNANDES PIASSI|06/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|BRUNO PEREIRA SANTIAGO DE ARAUJO|08/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|LUIZ EDUARDO DALAPICULA|08/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|JOAO VICTOR CORREA VIEIRA|08/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|GABRIEL FAUSTINO MARTINS|08/mai|[Exercícios](Exercícios.md)|Equilíbrio de partícula|
+|FRANCISCO S DO C PEREIRA|08/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|PEDRO HENRIQUE PRETTI VALENTIM|08/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|MATHEUS ZAMBALDI MARIM|13/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|JOAO VITOR AHNERT BLANCO DE MOURA MAGALHAES|13/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|JOAO MARCOS PECANHA SILVA|13/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|MATEUS VICENTE DE FREITAS|13/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|PEDRO HENRIQUE GONCALVES CONFORTI|13/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|OTAVIO SCOTA GUSMAO|13/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|ANA CAROLINA ZAMPROGNO ZOTTELE|15/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|CAUÃ SILVA BLANCO|15/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|CAIO HENRIQUE MOREIRA DA SILVA|15/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|FELIPE WANDEKOKEM BIGOSSI|15/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|RENZO SEPTIMIO ALVES FADINI|15/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|ENRICO BORTOLOTE RICCIO|15/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|MELL HUEBRA SOUZA SCHETTINO|20/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|JULIA MONJARDIM LUBE|20/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|RYAN PEREIRA WILLI|20/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|VINNICIUS DE ANDRADE COLOMBO|20/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|CAIO CAMPOS DE CASTRO|20/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|JOAO PEDRO SOARES ROCHA|20/mai|[Exercícios](Exercícios.md)|Equilíbrio de corpo rígido|
+|RAFAEL  <br>GIROTO OLIVEIRA FERRAZ|3-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|BRENNO LUIZ DE SOUZA MIRANDA|3-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|DERIK FRIGINI KUSTER|3-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|HENRIQUE NASCIMENTO BARTELT|3-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|GUILHERME SALOMAO DA SILVA ALVES|5-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|EDUARDO SCHMIDT SCHULTZ|5-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|RAFAEL THYAGO SILVA E SERRA|5-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|FAGNER HENRIQUE COSTA JUNIOR|5-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|GABRIELLA DE ALMEIDA BUNGENSTAB|5-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|PAULO ALEXANDRE GALVAO DE AGUIAR|5-Jun|[Exercícios](Exercícios.md)|Carregamentos axiais|
+|WILLIAN MANTOVANI BANDEIRA|10-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|MATHEUS COPPO SCARAMUSSA|10-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|VITOR LOURENCO DE SOUZA|10-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|ENZO VIEIRA PINTO|10-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|FELLIPE DA SILVA MORAES|12-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|RAFAEL  <br>GIROTO OLIVEIRA FERRAZ|12-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|PATRICK  <br>ALMEIDA DE OLIVEIRA|12-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|LAVINIA RICARDINO VACCARI|12-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|JULIA MONJARDIM LUBE|12-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|RENZO  <br>SEPTIMIO ALVES FADINI|12-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|GABRIELLA DE ALMEIDA BUNGENSTAB|17-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|RAFAEL THYAGO  <br>SILVA E SERRA|17-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|WILLIAN  <br>MANTOVANI BANDEIRA|17-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|BRUNO PEREIRA SANTIAGO DE ARAUJO|17-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|LUIZ EDUARDO DALAPICULA|17-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
+|GUILHERME SALOMAO DA SILVA ALVES|17-jun|[Exercícios](Exercícios.md)|Momento de Inércia|
 |==PROVA 2==|24-Jun|||
-|VITOR  <br>LOURENCO DE SOUZA|1-jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|ENRICO BORTOLOTE RICCIO|1-jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|BRENNO LUIZ DE SOUZA MIRANDA|1-jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|ANA CAROLINA ZAMPROGNO ZOTTELE|1-jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|ENZO VIEIRA PINTO|1-jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|OTAVIO SCOTA  <br>GUSMAO|1-jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|PAULO  <br>ALEXANDRE GALVAO DE AGUIAR|03-Jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|ENZO VIEIRA PINTO|03-Jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|JOAO VITOR AHNERT BLANCO DE MOURA MAGALHAES|03-Jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|MATHEUS COPPO  <br>SCARAMUSSA|03-Jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|CAIO CAMPOS DE CASTRO|03-Jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
-|MATHEUS  <br>ZAMBALDI MARIM|03-Jul|[[página/source/content/Estática/Exercícios/Exercícios\|Exercícios]]|Estruturas|
+|VITOR  <br>LOURENCO DE SOUZA|1-jul|[Exercícios](Exercícios.md)|Estruturas|
+|ENRICO BORTOLOTE RICCIO|1-jul|[Exercícios](Exercícios.md)|Estruturas|
+|BRENNO LUIZ DE SOUZA MIRANDA|1-jul|[Exercícios](Exercícios.md)|Estruturas|
+|ANA CAROLINA ZAMPROGNO ZOTTELE|1-jul|[Exercícios](Exercícios.md)|Estruturas|
+|ENZO VIEIRA PINTO|1-jul|[Exercícios](Exercícios.md)|Estruturas|
+|OTAVIO SCOTA  <br>GUSMAO|1-jul|[Exercícios](Exercícios.md)|Estruturas|
+|PAULO  <br>ALEXANDRE GALVAO DE AGUIAR|03-Jul|[Exercícios](Exercícios.md)|Estruturas|
+|ENZO VIEIRA PINTO|03-Jul|[Exercícios](Exercícios.md)|Estruturas|
+|JOAO VITOR AHNERT BLANCO DE MOURA MAGALHAES|03-Jul|[Exercícios](Exercícios.md)|Estruturas|
+|MATHEUS COPPO  <br>SCARAMUSSA|03-Jul|[Exercícios](Exercícios.md)|Estruturas|
+|CAIO CAMPOS DE CASTRO|03-Jul|[Exercícios](Exercícios.md)|Estruturas|
+|MATHEUS  <br>ZAMBALDI MARIM|03-Jul|[Exercícios](Exercícios.md)|Estruturas|
 |HENRIQUE NASCIMENTO BARTELT|8-Jul|7|Estruturas|
 |RAQUEL  <br>BARCELOS DE AQUINO FERNANDES|8-Jul|7|Estruturas|
 |VICTOR  <br>GABRIEL DE ARAUJO SILVA|8-Jul|8|Estruturas|

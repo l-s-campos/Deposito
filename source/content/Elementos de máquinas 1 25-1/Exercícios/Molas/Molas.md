@@ -11,7 +11,7 @@
 
   
 
-![[Untitled 68.png|Untitled 68.png]]
+![Untitled 68.png](attachments/Untitled%2068.png)
 
 3.Considere um brinquedo infantil onde criança fica de pé nos apoios, aplicando metade do peso de cada lado. Ela salta junto com a mola amortecendo o impacto e armazenando energia para ajudar a cada recuperação. Suponha um usuário de 80kg e uma constante de mola de 20kN/m. O pula-pula pesa 3kg. Projete a mola de compressão helicoidal para sobreviver a saltos do solo numa altura de 50 cm com um fator de segurança dinâmico de 1 para uma vida finita de 5E4 ciclos. Determine a frequência natural fundamental do sistema.
 
@@ -19,21 +19,21 @@
 
 4.Uma mola de torção helicoidal cilíndrica é usada como dobradiça em uma porta, conforme ilustrado. Uma força de F = 5 N é aplicada para abrir a porta fechada. E uma força máxima de Fmax = 20 N é usada para girar a porta para 180∘. A mola é feita de liga de aço com tensão de flexão admissível de [𝜎b] = 900 MPa. Determine o diâmetro do fio da mola e o diâmetro médio, e o número de bobinas ativas n.
 
-![[Untitled 1 53.png|Untitled 1 53.png]]
+![Untitled 1 53.png](attachments/Untitled%201%2053.png)
 
 1. Uma mola de valor opera sob uma carga variável, com uma extremidade fixa e uma extremidade articulada. A mola é necessária para resistir a uma carga dinâmica que varia de 200 a 1000 N enquanto a deflexão final varia de 5 a 25 mm. O diâmetro externo da mola é inferior a 40 mm e a vida útil é de 10^5. Projete a mola de compressão helicoidal.
 
 6.
 
-![[Untitled 2 44.png|Untitled 2 44.png]]
+![Untitled 2 44.png](attachments/Untitled%202%2044.png)
 
   
 
-![[Untitled 3 34.png|Untitled 3 34.png]]
+![Untitled 3 34.png](attachments/Untitled%203%2034.png)
 
 1. A extremidade livre de uma viga em balanço de aço horizontal de resistência constante está diretamente em contato com uma mola helicoidal vertical, conforme mostrado. A largura da viga em sua extremidade fixa é de 600 mm e em sua extremidade livre é de 300 mm, seu comprimento é de 800 mm e sua espessura é de 12 mm. A mola helicoidal possui 10 bobinas ativas de fio de 12,5 mm de diâmetro e tem um diâmetro externo de 100 mm.
 
-![[Untitled 4 31.png|Untitled 4 31.png]]
+![Untitled 4 31.png](attachments/Untitled%204%2031.png)
 
 Qual é a tensão máxima de flexão na viga quando ocorre um deslocamento de 40mm?
 
@@ -65,6 +65,6 @@ Qual é a tensão máxima de flexão na viga quando ocorre um deslocamento de 40
 
 (d) Qual é o comprimento da mola nas posições mostradas?
 
-![[image 88.png|image 88.png]]
+![image 88.png](attachments/image%2088.png)
 
 ancore cable attachment
