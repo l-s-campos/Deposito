@@ -339,7 +339,7 @@ Uma maneira direta de derivar fórmulas de integração é encontrar um interpol
 
 Uma das fórmulas de integração mais importantes resulta da integração do interpolante linear por partes. Geometricamente, a fórmula trapezoidal de áreas de trapezoides que se aproximam da região sob a curva y = f (x)
 
-![Untitled.svg](attachments/Untitled.svg)
+![Untitled.svg](../attachments/Untitled.svg)
 
 Usando áreas de triângulos, é trivial derivar que
 
@@ -540,4 +540,4 @@ onde h é o coeficiente de transferência de calor por convecção, P o perímet
 condutividade térmica do material e T— a temperatura ambiente.  
 Calcule usando BEM a distribuição de temperatura ao longo da aleta e compare os resultados com a solução analítica fornecida por $\frac{T-T_\infty}{T_B-T_\infty}=\frac{\cosh[n(L-x)]}{\cosh(nL)}$
 
-![Untitled 42.png](attachments/Untitled%2042.png)
+![Untitled 42.png](../attachments/Untitled%2042.png)

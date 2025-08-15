@@ -83,7 +83,7 @@ Pressão $P=100 N/mm$
 
   
 
-![image 71.png](attachments/image%2071.png)
+![image 71.png](../attachments/image%2071.png)
 
 $$\begin{gathered}  
 u_r=\frac{(1+v) p r_a^2}{\left(r_b^2-r_a^2\right) E}\left[(1-2 v) r+\frac{r_b^2}{r}\right] \\  
@@ -103,7 +103,7 @@ Pressão $P=1 N/mm$
 
 Esse problema é de estado plano de tensão. Para ser tratado pelas soluções fundamentais de estado plano de deformação as propriedades tem de ser ajustadas:
 
-![image 1 10.png](attachments/image%201%2010.png)
+![image 1 10.png](../attachments/image%201%2010.png)
 
 $$\nu^{'}=\frac{\nu}{1+\nu}\\E^{'}=E\left[1-\frac{\nu^{'2}}{(1+\nu^{'})^{2}}\right]$$
 
@@ -125,7 +125,7 @@ Poisson $\nu=0.3$
 
 Pressão $P=1000 N$
 
-![image 2 9.png](attachments/image%202%209.png)
+![image 2 9.png](../attachments/image%202%209.png)
 
 $$u_1(x,y)=-\frac{Py}{6EI}\left[(6L-3x)x+(2+v)\left(y^2-\frac{D^2}{4}\right)\right]$$
 

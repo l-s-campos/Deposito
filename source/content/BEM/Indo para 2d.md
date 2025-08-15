@@ -4,13 +4,13 @@ Uma vez que a integral ao longo do contorno no $s$ pode ser bastante difícil, o
 pedaços $s_{1},s_{2},...,s_{n}$, ou seja, $s=\sum_{i=1}^{n}s$, onde $n$ é o número de pedaços em que o contorno foi dividido. Uma vez  
 que estes pedaços podem ter uma forma qualquer, cada pedaço $s_{i}$ será aproximado por uma forma conhecida. Por simplicidade, esta forma é quase sempre dada por um polinômio (linha reta, parábola, etc).
 
-![Untitled 44.png](attachments/Untitled%2044.png)
+![Untitled 44.png](../attachments/Untitled%2044.png)
 
 Dessa maneira, cada pedaço $s_{1},s_{2},...,s_{n}$ é aproximado por formas conhecidas $\Gamma_{1},\Gamma_{2},...,\Gamma_{n}$, chamados Elementos de Contorno.
 
 Considere agora que os elementos de contorno $\Gamma_{i}$ sejam parabólicos, ou seja, são descritos por polinômios de 2ª ordem (equação de uma parábola). Desta forma, são necessários 3 pontos de $\Gamma_i$ para se definir a parábola. Estes pontos são dados por $(x_1,y_1)$, $(x_2,y_2)$ e $(x_3,y_3)$, que correspondem respectivamente a $\xi=-1$, $\xi=0$ e $\xi=1$.
 
-![Untitled 1 30.png](attachments/Untitled%201%2030.png)
+![Untitled 1 30.png](../attachments/Untitled%201%2030.png)
 
 Criando uma função parabólica para relacionar $x$ com $\xi$, tem-se: $x=a\xi^{2}+b\xi+c$ sendo que:
 
@@ -18,7 +18,7 @@ $$x(\xi=-1)=x_{1}=a(-1)^{2}+b(-1)+c\\x(\xi=0)=x_{2}=a(0)^{2}+b(0)+c\\x(\xi=+1)=x
 
 resolvendo esse sistema obtem-se $x=N_{1}x_{1}+N_{2}x_{2}+N_{3}x_{3}$ onde $N_{1}=\frac{\xi}{2}(\xi-1)$, $N_{2}=(1-\xi)(1+\xi)$ e $N_{3}=\frac{\xi}{2}(\xi+1)$ são as funções de forma quadráticas contínuas.
 
-![Untitled 2 29.png](attachments/Untitled%202%2029.png)
+![Untitled 2 29.png](../attachments/Untitled%202%2029.png)
 
 A derivada de $x$ em relação a $\xi$ é dada por $\frac{dx}{d\xi}=\frac{d[N_{1}(\xi)]}{d\xi}x_{1}+\frac{d[N_{2}(\xi)]}{d\xi}x_{2}+\frac{d[N_{3}(\xi)]}{d\xi}x_{3}$ onde $\frac{dN_1}{d\xi}=\xi-\frac{1}{2},$$\frac{dN_2}{d\xi}=-2\xi$ e $\frac{dN_3}{d\xi}=\xi+\frac{1}{2}$.
 
@@ -47,7 +47,7 @@ println("Área calculada numericamente: $Area")
 println("Centróide calculado numericamente: ( $xbarra, $ybarra)")
 ```
 
-![Untitled 3 24.png](attachments/Untitled%203%2024.png)
+![Untitled 3 24.png](../attachments/Untitled%203%2024.png)
 
 ## Área
 
@@ -62,15 +62,15 @@ Dividindo $\Gamma$ em uma soma de pequenos pedaços do contorno:
 
 $I=\sum_{i=1}^{NE}\int_{\Gamma_{i}}F\frac{\vec{n}\cdot\vec{r}}{r}d\Gamma$.
 
-![Untitled 4 22.png](attachments/Untitled%204%2022.png)
+![Untitled 4 22.png](../attachments/Untitled%204%2022.png)
 
-![Untitled 5 19.png](attachments/Untitled%205%2019.png)
+![Untitled 5 19.png](../attachments/Untitled%205%2019.png)
 
 ### Cálculo do vetor normal $\vec{n}$
 
-![Untitled 6 15.png](attachments/Untitled%206%2015.png)
+![Untitled 6 15.png](../attachments/Untitled%206%2015.png)
 
-![Untitled 7 12.png](attachments/Untitled%207%2012.png)
+![Untitled 7 12.png](../attachments/Untitled%207%2012.png)
 
 $\vec{S}$= vetor tangente ao contorno $\Gamma$. $\vec{S}$$=dx\vec{i}+dy\vec{j}$ vetor não unitário
 
@@ -96,11 +96,11 @@ O vetor $\vec{s}$ é sempre definido percorrendo $\Gamma$ no sentido anti-horár
 
 ### Exercícios
 
-![Untitled 8 10.png](attachments/Untitled%208%2010.png)
+![Untitled 8 10.png](../attachments/Untitled%208%2010.png)
 
 $I_{x}=\frac{a^{4}}{96} (9\sqrt{3}-2\pi)$
 
-![Untitled 9 8.png](attachments/Untitled%209%208.png)
+![Untitled 9 8.png](../attachments/Untitled%209%208.png)
 
 $I_x= 2 \cdot 10^4\pi - \frac{20^2 \cdot \pi}{2} \left( \frac{80}{3 \cdot \pi} \right)^2 +\left(\frac{20^2\pi}{2}\right)\left(15+\frac{80}{3\pi}\right)^2$
 

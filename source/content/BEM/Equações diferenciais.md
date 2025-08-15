@@ -182,7 +182,7 @@ Felizmente, a capacidade de resolver sistemas de de primeira ordem implica tamb�
 
 Dois pêndulos idênticos suspensos na mesma barra e oscilando em planos paralelos podem ser modelados como o sistema de segunda ordem
 
-![Untitled 43.png](attachments/Untitled%2043.png)
+![Untitled 43.png](../attachments/Untitled%2043.png)
 
 $$\theta_1''(t) +\gamma \theta_1' + \frac{g}{L} \sin \theta_1 + k(\theta_1-\theta_2) = 0,\\ \theta_2''(t) +\gamma \theta_2' + \frac{g}{L} \sin \theta_2 + k(\theta_2-\theta_1) = 0,$$
 
@@ -604,7 +604,7 @@ mp4(anim,"calor.mp4",fps=30)
 
   
 
-![boundaries-heat.mp4](attachments/boundaries-heat.mp4)
+![boundaries-heat.mp4](../attachments/boundaries-heat.mp4)
 
 Aqui as estratégias de passo no tempo apresentadas anteriormente também poderiam ser utilizadas.
 
@@ -658,7 +658,7 @@ end
 mp4(anim,"onda.mp4",fps=30)
 ```
 
-![onda.mp4](attachments/onda.mp4)
+![onda.mp4](../attachments/onda.mp4)
 
 ## Desafio
 

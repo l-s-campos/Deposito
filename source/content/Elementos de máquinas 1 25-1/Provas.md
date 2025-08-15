@@ -24,25 +24,25 @@ Prova final
 
 - 23/2
     
-    [P1.pdf](attachments/P1.pdf)
+    [P1.pdf](../attachments/P1.pdf)
     
-    [P2.pdf](attachments/P2.pdf)    
-    [P3.pdf](attachments/P3.pdf)
+    [P2.pdf](../attachments/P2.pdf)    
+    [P3.pdf](../attachments/P3.pdf)
      
 - 24/1
     
-    [P1 1.pdf](attachments/P1%201.pdf)
+    [P1 1.pdf](../attachments/P1%201.pdf)
     
-    [P2 1.pdf](attachments/P2%201.pdf)
+    [P2 1.pdf](../attachments/P2%201.pdf)
     
-    [P3 1.pdf](attachments/P3%201.pdf)
+    [P3 1.pdf](../attachments/P3%201.pdf)
     
 - 24/2
     
-    [P1 2.pdf](attachments/P1%202.pdf)
+    [P1 2.pdf](../attachments/P1%202.pdf)
     
-    [P2 2.pdf](attachments/P2%202.pdf)
+    [P2 2.pdf](../attachments/P2%202.pdf)
     
-    [P3 2.pdf](attachments/P3%202.pdf)
+    [P3 2.pdf](../attachments/P3%202.pdf)
     
     [P4.pdf](https://1drv.ms/b/s!AmfyGvdmTYonhOVW3JSprcdPzegTdQ?e=KJojU2)

@@ -47,7 +47,7 @@ Desafios que precisam ser enfrentados para que o método tenha uma maior adesão
 4- Programas de uso geral e pequenos programas disponíveis para engenheiros.  
 5- Acoplamento entre elementos de contorno e elementos finitos.  
 
-![Untitled.jpeg](attachments/Untitled.jpeg)
+![Untitled.jpeg](../attachments/Untitled.jpeg)
 
 ## Por que JULIA?
 
@@ -86,7 +86,7 @@ $$\int\limits_{x=x_1}^{x=x_2}u(x) v'(x)dx=\left[u(x) v(x)\right]_{x=x_1}^{x=x_2}
 
 onde $'$ representa a derivada. O primeiro termo do lado direito pode ser rescrito levando em conta o **contorno**. No caso unidimensional isso consiste exatamente nos pontos $x_1$ e $x_2$.
 
-![Untitled 41.png](attachments/Untitled%2041.png)
+![Untitled 41.png](../attachments/Untitled%2041.png)
 
 $$\begin{aligned}\left[u(x) v(x)\right]_{x=x_{1}}^{x=x_{2}}& =\left[u(x) v(x) n(x)\right]_{ x=x_{2}}+\left[u(x) v(x) n(x)\right]_{ x=x_{1}} \\&\Rightarrow\sum_{x=x_{1},x_{2}}u(x)v(x)n(x)\Rightarrow\int_{\Gamma}u(x)v(x)n(x)d\Gamma \end{aligned}$$
 
@@ -192,7 +192,7 @@ $$-T(x_d)= T(x_f)Q^*(x_f,x_d)-T^*(x_f,x_d)Q(x_f)-T(x_0)Q^*(x_0,x_d)+T^*(x_0,x_d)
 
 Considere uma carga constante(isso torna a integral restante muito fácil de ser integrada analiticamente) e resolva um problema de uma grande placa de espessura L = 2 cm com condutividade térmica constante k = 1 W/m.K e geração uniforme de calor b = 1000 kW/m3. As faces A e B estão a temperaturas de 100C e 200C, respectivamente. Compare com a solução analítica:
 
-![Untitled 1 29.png](attachments/Untitled%201%2029.png)
+![Untitled 1 29.png](../attachments/Untitled%201%2029.png)
 
 $$T=\left[\frac{T_B-T_A}{L}+\frac{b}{2k}(L-x)\right]x+T_A$$
 

@@ -14,7 +14,7 @@ A partir de $u$ as podemos definir:
 
 $\varphi=\frac{\mathrm{d}u}{\mathrm{d}x},\quad M=-EI\frac{\mathrm{d}^{2}u}{\mathrm{d}x^{2}},\quad\mathrm{e}\quad Q=-EI\frac{\mathrm{d}^{3}u}{\mathrm{d}x^{3}}$ que são a rotação, momento fletor e cortante.
 
-![7a3b8d3f-8de1-4fb5-a8bc-40724a3b3c5e.png](attachments/7a3b8d3f-8de1-4fb5-a8bc-40724a3b3c5e.png)
+![7a3b8d3f-8de1-4fb5-a8bc-40724a3b3c5e.png](../attachments/7a3b8d3f-8de1-4fb5-a8bc-40724a3b3c5e.png)
 
 usando essas definições, aplicando o método dos resíduos ponderados e integração por partes 4 vezes obtemos:
 
@@ -109,7 +109,7 @@ x=A\b
 
 # Efeitos transientes
 
-![image 68.png](attachments/image%2068.png)
+![image 68.png](../attachments/image%2068.png)
 
 $$\begin{aligned}EI\frac{\partial^4u}{\partial x^4}+\rho A\frac{\partial^2u}{\partial t^2}=f(x,t)\end{aligned}$$
 
@@ -150,7 +150,7 @@ $$\begin{aligned}\theta(\xi,t)=& - \frac{1}{\rho A}\Bigg\{ \int_{0}^{t}\Big[ \fr
 
 - Compare com uma solução analítica disponível no [Rao](https://www.pearson.com/en-us/subject-catalog/p/mechanical-vibrations/P200000003425/9780137515288)
     
-    ![image 1 7.png](attachments/image%201%207.png)
+    ![image 1 7.png](../attachments/image%201%207.png)
     
 
 3-Implemente a formulação da [viga de Timoshenko](https://link.springer.com/article/10.1007/s40996-020-00359-z) e de [BICKFORD-REDDY](https://link.springer.com/article/10.1007/s00366-019-00774-5) e compare as três para diferentes tamanhos de viga.

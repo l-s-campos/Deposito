@@ -68,7 +68,7 @@ Todos os exercícios tem de ser resolvidos com diferentes discretizações.
 
 A equação que rege esse problema é: $S\nabla^2w=−f$
 
-![image 70.png](attachments/image%2070.png)
+![image 70.png](../attachments/image%2070.png)
 
 A solução analítica é dada por:
 
@@ -78,7 +78,7 @@ Calcule o erro médio e a norma L2 do erro em 100 pontos internos. Faça um grá
 
 1. Considere um cubo unitário inicialmente a temperatura zero e submetido a um aquecimento súbito em uma de suas faces.
 
-![image 1 9.png](attachments/image%201%209.png)
+![image 1 9.png](../attachments/image%201%209.png)
 
 A face aquecida é elevada e mantida a uma temperatura unitária. Supõe-se que as propriedades do material sejam unitárias. A solução analítica para este problema de exemplo pode ser encontrada como:
 
@@ -96,7 +96,7 @@ $u=\left[1.6-{\frac{1}{246}}\left(50x^{2}-8y^{2}+33.6\right)\right]\left({\frac{
 
   
 
-![image 2 8.png](attachments/image%202%208.png)
+![image 2 8.png](../attachments/image%202%208.png)
 
 extra
 

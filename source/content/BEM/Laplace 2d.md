@@ -74,7 +74,7 @@ A fim de ilustrar como se aplica as condições de contorno e se calcula as vari
 
   
 
-![image 69.png](attachments/image%2069.png)
+![image 69.png](../attachments/image%2069.png)
 
 As equações obtidas podem ser escritas na forma matricial, como:
 
@@ -130,7 +130,7 @@ $\varepsilon_u = \frac{\| \mathbf{u} - \mathbf{u}^{\text{exact}} \|_{L_2}}{\| \m
 
 $$\begin{aligned}u(\theta)&=\frac{\theta}{\pi}\\q(x)&=-\frac{1}{\pi x}\quad \text{em}\quad y=0\end{aligned}$$
 
-![image 1 8.png](attachments/image%201%208.png)
+![image 1 8.png](../attachments/image%201%208.png)
 
   
 
@@ -150,7 +150,7 @@ Analise uma placa com as seguintes condições de contorno:
 - $T(x = 1) = \cos(\pi y)$
 - $q(y = 0) = q(y = 1) = -k \frac{\partial u}{\partial n} = 0$
 
-![image 2 7.png](attachments/image%202%207.png)
+![image 2 7.png](../attachments/image%202%207.png)
 
 A solução analítica para este problema é dada por:
 
@@ -165,7 +165,7 @@ Analise o problema usando diferentes números de elementos e faça uma tabela mo
 1. Faça um mapa de cor da distribuição de temperatura em uma placa com dimensões e condições de contorno mostradas na figura.  
     
 
-![image 3 7.png](attachments/image%203%207.png)
+![image 3 7.png](../attachments/image%203%207.png)
 
 ## Desafio
 
