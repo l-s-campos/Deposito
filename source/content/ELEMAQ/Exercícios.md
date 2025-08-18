@@ -1,7 +1,7 @@
-[Resistência dos materiais](Exercícios/Resistência%20dos%20materiais.md)
+[Resistência dos materiais](ELEMAQ/Exercícios/Resistência%20dos%20materiais.md)
 
 [Fadiga](Exercícios/Fadiga.md)
-
+[Fadiga](página/source/content/ELEMAQ/Exercícios/Fadiga.md)
 [Eixos](Exercícios/Eixos.md)
 
 [Eixos - deflexão máxima e velocidade crítica](Exercícios/Eixos%20-%20deflexão%20máxima%20e%20velocidade%20crítica.md)
