@@ -1,19 +1,19 @@
-[Resistência dos materiais](ELEMAQ/Exercícios/Resistência%20dos%20materiais.md)
+[Resistência dos materiais](<./Exercícios/Resistência dos materiais.md>)
 
-[Fadiga](Exercícios/Fadiga.md)
-[Fadiga](página/source/content/ELEMAQ/Exercícios/Fadiga.md)
-[Eixos](Exercícios/Eixos.md)
+[Fadiga](<./Exercícios/Fadiga.md>)
 
-[Eixos - deflexão máxima e velocidade crítica](Exercícios/Eixos%20-%20deflexão%20máxima%20e%20velocidade%20crítica.md)
+[Eixos](<./Exercícios/Eixos.md>)
 
-[Montagem](Exercícios/Montagem.md)
+[Eixos - deflexão máxima e velocidade crítica](<./Exercícios/Eixos - deflexão máxima e velocidade crítica.md>)
 
-[Parafusos de potência](Exercícios/Parafusos%20de%20potência.md)
+[Montagem](<./Exercícios/Montagem.md>)
 
-[Junta parafusada](Exercícios/Junta%20parafusada.md)
+[Parafusos de potência](<./Exercícios/Parafusos de potência.md>)
 
-[solda](Exercícios/solda.md)
+[Junta parafusada](<./Exercícios/Junta parafusada.md>)
 
-[Freios](Exercícios/Freios.md)
+[solda](<./Exercícios/solda.md>)
 
-[Molas](Exercícios/Molas.md)
+[Freios](<./Exercícios/Freios.md>)
+
+[Molas](<./Exercícios/Molas.md>)
